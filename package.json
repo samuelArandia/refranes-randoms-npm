@@ -16,5 +16,13 @@
   "bin": {
     "randonMsg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelArandia/refranes-randoms-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samuelArandia/refranes-randoms-npm/issues"
+  },
+  "homepage": "https://github.com/samuelArandia/refranes-randoms-npm#readme"
 }
