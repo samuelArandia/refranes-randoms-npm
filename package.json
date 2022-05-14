@@ -1,0 +1,20 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "Random refranes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Samuel Arandia",
+  "license": "MIT",
+  "bin": {
+    "randonMsg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
